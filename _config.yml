@@ -1,10 +1,10 @@
 # Site settings
 title: Victory Open School
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://victoryopen.github.io/victoryopenschool.github.io/
+description: VICTORY OPEN SCHOOL ni taasisi iliyoundwa na walimu wenye uzoefu wa taaluma ya kufundisha kutoka Nchini Tanzania na Kenya kwa kushirikiana na muongozo wa taasisi ya Elimu ya watu wazima Tanzania. ch results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Educate - Evolve - User Experience"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -39,16 +39,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  #- title: twitter
+   # url: http://twitter.com/jekyllrb
+  #- title: facebook
+   # url:
+  #- title: stack-overflow
+   # url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+   # url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
